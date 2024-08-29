@@ -1,1 +1,1 @@
-# dj_internationalization
+# dj_internationlization
